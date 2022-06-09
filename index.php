@@ -4,11 +4,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>SEO - SEO Index Page</title>
+	<title>Frisky Fiesta</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900%7COpen+Sans:400,700,700i" rel="stylesheet">
-	<link rel="icon" type="image/png" href="favicon.html">
+	<link rel="icon" type="image/png" href="images/logo.png">
 
 	<link rel="apple-touch-icon" href="apple-touch-icon.html">
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
@@ -1127,27 +1127,9 @@
 	</section>
 
 
-	<div class="zoom-anim-dialog mfp-hide modal-language" id="modal-popup-1">
-		<div class="modal-dialog modal-lg">
-			<div class="modal-content">
-				<div class="language-content">
-					<p>Switch The Language</p>
-					<ul class="flag-lists">
-						<li><a href="#"><img src="assets/images/flags/006-united-states.svg"
-									alt=""><span>English</span></a></li>
-						<li><a href="#"><img src="assets/images/flags/002-canada.svg" alt=""><span>English</span></a>
-						</li>
-						<li><a href="#"><img src="assets/images/flags/003-vietnam.svg"
-									alt=""><span>Vietnamese</span></a></li>
-						<li><a href="#"><img src="assets/images/flags/004-france.svg" alt=""><span>French</span></a>
-						</li>
-						<li><a href="#"><img src="assets/images/flags/005-germany.svg" alt=""><span>German</span></a>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
+	<?php 
+	  include 'include/language.php';
+    ?>
 
 
 	<div class="zoom-anim-dialog mfp-hide modal-searchPanel" id="modal-popup-2">
@@ -1190,88 +1172,9 @@
 	</div>
 
 
-	<div class="xs-sidebar-group info-group">
-		<div class="xs-overlay black-bg"></div>
-		<div class="xs-sidebar-widget">
-			<div class="sidebar-widget-container">
-				<div class="widget-heading">
-					<a href="#" class="close-side-widget">
-						<i class="icon icon-cross"></i>
-					</a>
-				</div>
-				<div class="sidebar-textwidget">
-					<div class="sidebar-logo-wraper">
-						<a href="index-2.html">
-							<img src="assets/images/logo.png" alt="sidebar logo">
-						</a>
-					</div>
-					<p>Far far away, behind the word moun tains, far from the countries Vokalia and Consonantia, there
-						live the blind texts. Separated they live in Bookmarksgrove right at the coast of </p>
-					<ul class="sideabr-list-widget">
-						<li>
-							<div class="media">
-								<div class="d-flex">
-									<img src="assets/images/location.png" alt="">
-								</div>
-								<div class="media-body">
-									<p>759 Pinewood Avenue</p>
-									<span>Marquette, Michigan</span>
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="media">
-								<div class="d-flex">
-									<img src="assets/images/mail.png" alt="">
-								</div>
-								<div class="media-body">
-									<a
-										href="https://html.xpeedstudio.com/cdn-cgi/l/email-protection#10797e767f50747f7d71797e3e737f7d"><span
-											class="__cf_email__"
-											data-cfemail="e68f888089a682898b878f88c885898b">[email&#160;protected]</span></a>
-									<span>Online Support</span>
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="media">
-								<div class="d-flex">
-									<img src="assets/images/phone.png" alt="">
-								</div>
-								<div class="media-body">
-									<p>906-624-2565</p>
-									<span>Mon-Fri 8am-5pm</span>
-								</div>
-							</div>
-						</li>
-					</ul>
-					<div class="subscribe-from">
-						<p>Get Subscribed!</p>
-						<form action="#" method="POST" class="subscribe-form">
-							<label for="sub-input"></label>
-							<div class="form-group">
-								<input type="email" name="email" id="sub-input" placeholder="Enter your mail here"
-									class="form-control">
-								<button class="sub-btn" type="submit"><i class="icon icon-arrow-right"></i></button>
-							</div>
-						</form>
-					</div>
-					<ul class="social-list version-2">
-						<li><a href="https://www.facebook.com/" class="facebook"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="https://twitter.com/" class="twitter"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="https://bd.linkedin.com/" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
-						<li><a href="https://www.instagram.com/" class="instagram"><i class="fa fa-instagram"></i></a>
-						</li>
-						<li><a href="https://vimeo.com/" class="vimeo"><i class="fa fa-vimeo"></i></a></li>
-					</ul>
-					<div class="text-center">
-						<a href="https://themeforest.net/user/xpeedstudio/portfolio" class="btn btn-primary">Purchase
-							Now</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	<?php 
+	 include 'include/sidebar.php';
+	?>
 
 	<?php 
 	 include 'include/footer.php';
@@ -1300,7 +1203,4 @@
 	<script src="assets/js/delighters.js"></script>
 	<script src="assets/js/main.js"></script>
 </body>
-
-<!-- Mirrored from html.xpeedstudio.com/upturn/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 25 May 2022 17:32:14 GMT -->
-
 </html>

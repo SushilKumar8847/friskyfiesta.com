@@ -1,8 +1,6 @@
 
 <!doctype html>
 <html class="no-js" lang="en">
-
-<!-- Mirrored from html.xpeedstudio.com/upturn/search-engine-optimization.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 25 May 2022 17:34:01 GMT -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -29,11 +27,6 @@
 <link rel="stylesheet" href="assets/css/responsive.css" />
 </head>
 <body>
-<!--[if lt IE 10]>
-		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-	<![endif]-->
-
-
 
 <div class="header">
 
