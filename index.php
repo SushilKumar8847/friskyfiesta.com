@@ -1129,78 +1129,9 @@
 
 	<?php 
 	  include 'include/language.php';
-    ?>
-
-
-	<div class="zoom-anim-dialog mfp-hide modal-searchPanel" id="modal-popup-2">
-		<div class="modal-dialog modal-lg">
-			<div class="modal-content">
-				<div class="xs-search-panel">
-					<form action="#" method="POST" class="xs-search-group">
-						<input type="search" class="form-control" name="search" id="search" placeholder="Search">
-						<button type="submit" class="search-button"><i class="icon icon-search"></i></button>
-					</form>
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-	<div class="xs-sidebar-group cart-group">
-		<div class="xs-overlay black-bg"></div>
-		<div class="xs-sidebar-widget">
-			<div class="sidebar-widget-container">
-				<div class="widget-heading media">
-					<div class="media-body">
-						<a href="#" class="close-side-widget">
-							<i class="icon icon-cross"></i>
-						</a>
-					</div>
-				</div>
-				<div class="xs-empty-content">
-					<h3 class="widget-title">Shopping cart</h3>
-					<h4 class="xs-title">No products in the cart.</h4>
-					<p class="empty-cart-icon">
-						<i class="icon icon-shopping-cart"></i>
-					</p>
-					<p class="xs-btn-wraper">
-						<a class="btn btn-primary" href="shop.html">Return To Shop</a>
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-	<?php 
-	 include 'include/sidebar.php';
+	  include 'include/sidebar.php';
+	  include 'include/footer.php';
+	  include('include/js.php');
 	?>
-
-	<?php 
-	 include 'include/footer.php';
-	?>
-
-
-	<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-	<script src="assets/js/jquery-3.2.1.min.js"></script>
-	<script src="assets/js/plugins.js"></script>
-	<script src="assets/js/Popper.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/jquery.magnific-popup.min.js"></script>
-	<script src="assets/js/owl.carousel.min.js"></script>
-	<script src="assets/js/jquery.ajaxchimp.min.js"></script>
-	<script src="assets/js/jquery.waypoints.min.js"></script>
-	<script src="assets/js/isotope.pkgd.min.js"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyCy7becgYuLwns3uumNm6WdBYkBpLfy44k"></script>
-	<script src="assets/js/scrollax.js"></script>
-	<script src="assets/js/jquery.themepunch.revolution.min.js"></script>
-	<script src="assets/js/jquery.themepunch.tools.min.js"></script>
-	<script src="assets/js/extensions/revolution.extension.slideanims.min.js"></script>
-	<script src="assets/js/extensions/revolution.extension.layeranimation.min.js"></script>
-	<script src="assets/js/extensions/revolution.extension.navigation.min.js"></script>
-	<script src="assets/js/extensions/revolution.extension.parallax.min.js"></script>
-	<script src="assets/js/jquery.easypiechart.min.js"></script>
-	<script src="assets/js/delighters.js"></script>
-	<script src="assets/js/main.js"></script>
 </body>
 </html>

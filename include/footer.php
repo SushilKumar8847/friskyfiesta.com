@@ -38,14 +38,14 @@
 				<div class="row">
 					<div class="col-md-6 col-lg-3">
 						<div class="footer-widget">
-							<h4 class="xs-content-title">Company</h4>
+							<h4 class="xs-content-title">Frisky Fiesta</h4>
 							<ul class="xs-lsit">
-								<li><a href="about.html">About us</a></li>
-								<li><a href="#">Partners</a></li>
-								<li><a href="#">Case Studies</a></li>
-								<li><a href="#">Our Team</a></li>
-								<li><a href="#">Career</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="about.php">About us</a></li>
+								<li><a href="contact.php">Contact Us</a></li>
+								<li><a href="faq.php">F&Qs</a></li>
+								<li><a href="portfolio.php">Our Portfolio</a></li>
+								<li><a href="testimonial.php">Testimonial</a></li>
+								<li><a href="privacypolcy.php">Privacy policy</a></li>
 							</ul>
 						</div>
 					</div>
@@ -102,10 +102,10 @@
 						<div class="col-md-8">
 							<ul class="xs-lsit list-inline">
 								<li class="title">PARTNERSHIP :</li>
-								<li><img src="assets/images/partner/partner-1.png" alt=""></li>
-								<li><img src="assets/images/partner/partner-2.png" alt=""></li>
-								<li><img src="assets/images/partner/partner-3.png" alt=""></li>
-								<li><img src="assets/images/partner/partner-4.png" alt=""></li>
+								<li><img src="assets/images/partner/upserve global flogo.png" alt=""></li>
+								<li><img src="assets/images/partner/Socialyardlogo.png" alt=""></li>
+								<li><img src="assets/images/partner/logo.png" alt=""></li>
+								<li><img src="assets/images/partner/bpaeducators-1.png" alt=""></li>
 							</ul>
 						</div>
 						<div class="col-md-4">
@@ -125,21 +125,21 @@
 				<div class="row">
 					<div class="col-md-6">
 						<div class="copyright-text">
-							<p>Copyright &copy; 2018, All Right Reserved <a
-									href="https://themeforest.net/user/xpeedstudio/portfolio">SEOPress</a></p>
+							<p>Copyright &copy; 2021, All Right Reserved <a
+									href="https://friskyfiesta.com/">Frisky Fiesta</a></p>
 						</div>
 					</div>
 					<div class="col-md-6">
 						<ul class="social-list">
-							<li><a href="https://www.facebook.com/" class="facebook"><i class="fa fa-facebook"></i></a>
+							<li><a href="https://www.facebook.com/friskyfiesta/" class="facebook"><i class="fa fa-facebook"></i></a>
 							</li>
-							<li><a href="https://twitter.com/" class="twitter"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="https://bd.linkedin.com/" class="linkedin"><i class="fa fa-linkedin"></i></a>
+							<li><a href="https://twitter.com/friskyfiesta" class="twitter"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="https://www.linkedin.com/in/friskyfiesta/" class="linkedin"><i class="fa fa-linkedin"></i></a>
 							</li>
-							<li><a href="https://www.instagram.com/" class="instagram"><i
+							<li><a href="https://www.instagram.com/friskyfiesta/" class="instagram"><i
 										class="fa fa-instagram"></i></a></li>
-							<li><a href="https://plus.google.com/discover" class="googlePlus"><i
-										class="fa fa-google-plus"></i></a></li>
+							<li><a href="https://www.youtube.com/channel/UCVYJRHpUt3Xodv1vU9EtXCg" class="googlePlus"><i
+										class="fa fa-youtube-play"></i></a></li>
 						</ul>
 					</div>
 				</div>

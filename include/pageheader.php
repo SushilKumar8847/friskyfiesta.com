@@ -13,11 +13,12 @@
                     </div>
                     <div class="col-md-6">
                         <ul class="xs-list list-inline">
-                            <li><a href="https://www.facebook.com/"><i class="icon icon-facebook"></i></a></li>
-                            <li><a href="https://twitter.com/"><i class="icon icon-twitter"></i></a></li>
-                            <li><a href="https://plus.google.com/discover"><i class="icon icon-google-plus"></i></a></li>
-                            <li><a href="https://www.youtube.com/"><i class="icon icon-youtube-v"></i></a></li>
-                            <li><a href="https://bd.linkedin.com/"><i class="icon icon-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/friskyfiesta/"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.instagram.com/friskyfiesta/"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://twitter.com/friskyfiesta"><i class="fa fa-twitter"></i></a></li>                       
+                            <li><a href="https://www.youtube.com/channel/UCVYJRHpUt3Xodv1vU9EtXCg"><i class="fa fa-youtube-play"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/friskyfiesta/"><i class="icon icon-linkedin"></i></a></li>
+                           
                         </ul>
                     </div>
                 </div>

@@ -23,7 +23,7 @@
                         </div>
                     </div>
                 </div>
-                <p>Frisky Fiesta is a software development & Digital Marketing company in the National Capital Region (NCR) of India. Frisky Fiesta delivers high quality, reliable and cost-effective IT services to customers globally. We provide best technology
+                <p>We provide best technology
                     services by constantly exploring and implementing innovative solutions to provide the cutting-edge technology to our customers. </p>
                 <ul class="sideabr-list-widget">
                     <li>
@@ -77,12 +77,15 @@
                     </form>
                 </div>
                 <ul class="social-list version-2 ">
-                    <li><a href="https://www.facebook.com/ " class="facebook "><i class="fa fa-facebook "></i></a></li>
-                    <li><a href="https://twitter.com/ " class="twitter "><i class="fa fa-twitter "></i></a></li>
-                    <li><a href="https://bd.linkedin.com/ " class="linkedin "><i class="fa fa-linkedin "></i></a></li>
-                    <li><a href="https://www.instagram.com/friskyfiesta/ " class="instagram "><i class="fa fa-instagram "></i></a>
-                    </li>
-                    <li><a href="https://vimeo.com/ " class="vimeo "><i class="fa fa-vimeo "></i></a></li>
+                <li><a href="https://www.facebook.com/friskyfiesta/" class="facebook"><i class="fa fa-facebook"></i></a>
+							</li>
+							<li><a href="https://twitter.com/friskyfiesta" class="twitter"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="https://www.linkedin.com/in/friskyfiesta/" class="linkedin"><i class="fa fa-linkedin"></i></a>
+							</li>
+							<li><a href="https://www.instagram.com/friskyfiesta/" class="instagram"><i
+										class="fa fa-instagram"></i></a></li>
+							<li><a href="https://www.youtube.com/channel/UCVYJRHpUt3Xodv1vU9EtXCg" class="googlePlus"><i
+										class="fa fa-youtube-play"></i></a></li>
                 </ul>
 
             </div>
